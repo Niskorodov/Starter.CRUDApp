@@ -9,5 +9,8 @@
         <module name="spring-crud-app1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-forms-validation" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
